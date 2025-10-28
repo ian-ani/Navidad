@@ -18,7 +18,6 @@ public abstract class Arbol {
     // Maceta
     protected static final int ALTURA_MACETA = 2;
     protected static final int LARGO_MACETA = 5;
-    protected static final int DESPLAZAMIENTO = 4;
 
     /* METODOS AUXILIARES */
     protected static void limpiarPantalla() throws InterruptedException {
